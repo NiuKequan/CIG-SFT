@@ -10,7 +10,7 @@ readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.11.0"
 authors = [
-    { name = "hiyouga", email = "hiyouga@buaa.edu.cn" }
+    { name = "NiuKequan" }
 ]
 keywords = [
     "AI",
@@ -80,8 +80,8 @@ llamafactory-cli = "llamafactory.cli:main"
 lmf = "llamafactory.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/hiyouga/LLaMA-Factory"
-Repository = "https://github.com/hiyouga/LLaMA-Factory"
+Homepage = "https://github.com/NiuKequan/CIG-SFT"
+Repository = "https://github.com/NiuKequan/CIG-SFT"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/llamafactory"]
