@@ -2,6 +2,5 @@ cff-version: 1.2.0
 title: "Counterfactual Instance Gating for Supervised Fine-Tuning"
 message: "If you use this software, please cite this repository."
 authors:
-  - name: "NiuKequan"
-repository-code: "https://github.com/NiuKequan/CIG-SFT"
+  - name: "Anonymous Authors"
 license: "Apache-2.0"
